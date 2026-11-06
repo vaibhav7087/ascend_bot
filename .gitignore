@@ -33,3 +33,17 @@ Thumbs.db
 
 # Backups (local only)
 backups/
+node_modules/
+.next/
+.cache/
+*.pem
+*.key
+id_rsa
+id_ed25519
+.opencode/
+.huggingface/
+*.csd
+data/raw/
+*.zip
+*.apk
+*.so
